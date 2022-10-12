@@ -6,3 +6,7 @@ Step 5: Open pizza box
 Step 6: Eat pizza
 Step 7: Realized it wasnt good
 Step 8: Call and complain
+<<<<<<< HEAD
+=======
+Step 9: Get my pizza for free
+>>>>>>> test
