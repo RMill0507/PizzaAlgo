@@ -2,4 +2,7 @@ Step 1: Order the pizza
 Step 2: Wait for delivery
 Step 3: Answer the door     
 Step 4: Pay the driver
-Step 5: Check pizza is in the box
+Step 5: Open pizza box
+Step 6: Eat pizza
+Step 7: Realized it wasnt good
+Step 8: Call and complain
